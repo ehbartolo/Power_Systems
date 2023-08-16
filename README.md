@@ -12,5 +12,9 @@ A collection of my Repositories regarding Power Systems
     <a href="https://github.com/ehbartolo/Fast-Decouple-Power-Flow-of-IEEE118-Bus-in-MATLAB"> 
       Fast-Decouple-Power-Flow-of-IEEE118-Bus-in-MATLAB
     </a>
+    <li>
+    <a href="https://github.com/ehbartolo/Numerical_Methods"> 
+      Numerical_Methods
+    </a>
   </li>
 </ul>
