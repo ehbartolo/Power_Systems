@@ -16,5 +16,9 @@ A collection of my Repositories regarding Power Systems
     <a href="https://github.com/ehbartolo/Numerical_Methods"> 
       Numerical_Methods
     </a>
+    <li>
+    <a href="https://github.com/ehbartolo/PSSE_SCRIPTS"> 
+      PSSE_SCRIPTS
+    </a>
   </li>
 </ul>
